@@ -1,0 +1,19 @@
+### GET request to example server
+GET http://localhost:5060
+
+###
+
+GET http://localhost:5060/data
+
+
+###
+GET http://localhost:5060/AsD
+###
+
+GET http://localhost:5060/ASD/ID
+###
+
+
+POST http://localhost:5060/adele
+
+msg=hi
